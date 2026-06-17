@@ -1,0 +1,10 @@
+El uso responsable de la información en internet, la participación ciudadana y la organización
+técnica con herramientas como Git están profundamente relacionados, porque los tres exigen
+consciencia sobre el impacto de nuestras acciones. Así como un ciudadano digital responsable
+verifica la información antes de compartirla, un desarrollador usa Git para registrar cada cambio
+de forma ordenada y trazable, dejando un historial claro de lo que hizo y por qué.
+La participación ciudadana en entornos digitales requiere que las personas actúen con ética
+y transparencia, valores que también están presentes en el trabajo técnico cuando se documentan
+los cambios con mensajes de commit descriptivos y se colabora con otros mediante repositorios
+públicos. En ese sentido, Git no es solo una herramienta técnica, sino también una forma de
+asumir responsabilidad sobre el trabajo propio y de contribuir de manera honesta a proyectos colectivos
