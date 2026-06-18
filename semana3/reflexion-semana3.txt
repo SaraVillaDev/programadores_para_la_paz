@@ -5,4 +5,4 @@ anterior sin perder todo el trabajo hecho.
 También es muy útil cuando varias personas trabajan juntas, porque cada una puede trabajar
 en su parte sin dañar lo que otros han hecho.
 En resumen, Git no es solo una herramienta técnica sino un hábito de orden que todo
-desarrollador debería adoptar desde el principio.
+desarrollador debería adoptar desde el principio

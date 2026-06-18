@@ -1,0 +1,8 @@
+Poder construir herramientas tecnológicas propias con Node.js es importante porque
+permite que comunidades e iniciativas ciudadanas resuelvan sus necesidades sin depender
+de empresas externas ni pagar licencias costosas.
+Al ser de código abierto y gratuito, cualquier persona con acceso a un computador
+puede aprender a usarlo y crear sus propias soluciones digitales.
+Esto democratiza la tecnología y le da voz a quienes normalmente no tienen recursos
+para contratar desarrollos costosos, convirtiendo la programación en una herramienta
+real de participación y autonomía ciudadana.ya
