@@ -1,0 +1,17 @@
+Un ciudadano podría enviar el siguiente JSON a la ruta POST /incidencia:
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+El servidor respondería con:
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Este tipo de reporte permite que los ciudadanos informen problemas de forma
+organizada y que las autoridades puedan atenderlos más fácilmente.

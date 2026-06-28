@@ -1,0 +1,12 @@
+Que las plataformas tecnológicas puedan recibir información estructurada
+de los ciudadanos es clave para construir comunidades más organizadas.
+Cuando los datos llegan en formato JSON, es más fácil procesarlos,
+almacenarlos y darles seguimiento.
+
+Por ejemplo, una app comunitaria que reciba reportes de incidencias
+permite que las autoridades identifiquen rápidamente qué problemas
+existen y en qué zonas. Esto reduce el tiempo de respuesta y evita
+que los reportes se pierdan en llamadas o mensajes informales.
+
+Recibir datos de forma estructurada también facilita construir
+estadísticas y tomar mejores decisiones para la comunidad.
