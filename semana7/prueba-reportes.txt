@@ -1,0 +1,18 @@
+Se enviaron dos reportes mediante POST a http://localhost:3000/reportes.
+El servidor respondió con Status 200 OK y confirmó cada reporte registrado
+asignándole un id automático.
+
+Al consultar GET http://localhost:3000/reportes, el servidor devolvió
+la lista completa de reportes almacenados en memoria:
+
+[
+  {
+    "id": 1,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+]
+
+Los datos se mantienen en memoria mientras el servidor está activo.
+Si se reinicia el servidor, la lista vuelve a estar vacía porque
+aún no se usa una base de datos.

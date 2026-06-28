@@ -1,0 +1,8 @@
+quee las comunidades puedan registrar y consultar reportes en una
+plataforma tecnológica es clave para organizar mejor los problemas
+del territorio. Sin una herramienta así, los reportes se pierden
+en llamadas, mensajes o papeles que nadie revisa,con una API como la que construimos esta semana, cada incidencia
+queda registrada con un identificador único, lo que facilita su
+seguimiento. Además, cualquier persona con acceso puede consultar
+el listado actualizado de reportes en tiempo real.
+
