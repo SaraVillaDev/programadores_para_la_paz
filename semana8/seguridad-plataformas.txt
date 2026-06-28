@@ -1,0 +1,9 @@
+No exponer datos personales de los usuarios en respuestas de la API ni en repositorios públicos.
+
+Proteger credenciales usando variables de entorno en lugar de escribir contraseñas directamente en el código.
+
+Usar conexiones seguras (HTTPS) para que los datos enviados entre el usuario y el servidor viajen cifrados.
+
+Registrar accesos y actividad del sistema para detectar comportamientos sospechosos o accesos no autorizados.
+
+Limitar el acceso a información sensible según el rol del usuario,de manera que cada persona solo vea lo que le corresponde.

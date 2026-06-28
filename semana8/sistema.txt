@@ -1,0 +1,20 @@
+Comando: uname -a
+Muestra información completa del sistema operativo: nombre del kernel,
+nombre del equipo, versión, fecha de compilación y arquitectura del procesador.
+Es útil para saber qué sistema está corriendo en el servidor.
+
+Resultado obtenido:
+MINGW64_NT-10.0-26200 LAPTOP-AIQINP3A 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+Comando: whoami
+Muestra el nombre del usuario que está ejecutando la sesión actual.
+Es útil para saber con qué permisos se están ejecutando los procesos
+y verificar que no se esté trabajando como administrador sin necesidad.
+
+Resultado obtenido:
+sara
+
+porqué es útil conocer esta información en un servidor?
+Conocer el sistema operativo y el usuario activo permite identificar
+vulnerabilidades, controlar permisos y garantizar que los servicios
+se ejecuten de forma segura y organizada.
