@@ -1,0 +1,8 @@
+Las APIs permiten que las comunidades compartan información de forma
+organizada sin necesidad de desplazarse. A través de endpoints como
+el que construimos esta semana, cualquier persona puede enviar reportes
+o alertas desde su celular por ejemplo, una comunidad podría reportar daños en vías o fallas en
+servicios públicos, y esa información llegaría estructurada a quienes
+toman decisiones. Esto facilita una respuesta más rápida y fortalece
+la participación ciudadana, haciendo de la tecnología un puente real
+entre la comunidad y las instituciones.

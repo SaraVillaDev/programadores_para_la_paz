@@ -1,0 +1,13 @@
+Ruta 1: http://localhost:3000
+Al ingresar esta URL en el navegador, el servidor responde con el texto "Servidor activo".
+Es la ruta principal o raíz del servidor.
+
+Ruta 2: http://localhost:3000/saludo
+El servidor responde con el texto "Hola comunidad".
+Esta ruta está definida con app.get('/saludo') y devuelve un mensaje fijo.
+
+Ruta 3: http://localhost:3000/mensaje/juan
+El servidor responde con "Hola juan".
+Esta ruta usa un parámetro dinámico (:nombre), lo que significa que si cambiamos
+"juan" por cualquier otro nombre, el servidor responderá con ese nombre.
+Por ejemplo: http://localhost:3000/mensaje/sara devolvería "Hola sara".
