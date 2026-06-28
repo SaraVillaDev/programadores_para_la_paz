@@ -1,0 +1,7 @@
+las plataformas comunitarias deben funcionar de forma estable y segura
+porque los ciudadanos dependen de ellas para reportar problemas, acceder
+a información y participar activamente. Un servidor que falla genera
+desconfianza y deja sin respuesta necesidades reales. Por eso es clave
+monitorear la ejecución, revisar los logs, proteger credenciales y
+controlar accesos, garantizando que la tecnología esté siempre disponible
+para quienes la necesitan.
