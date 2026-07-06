@@ -1,0 +1,3 @@
+Las metodologías ágiles ayudan a organizar una comunidad o proceso participativo porque permiten dividir el trabajo en tareas claras,priorizarlas y avanzar en ciclos cortos donde se puede corregir
+sobre la marcha sin perder el rumbo del proyecto.La automatización con herramientas como n8n reduce el trabajo manual repetitivo y garantiza que el equipo reciba información oportuna sin depender de que alguien esté revisando el sistema todo el tiempo.
+Telegram como canal de coordinación permite que las alertas lleguen directamente a las personas responsables de forma inmediata.

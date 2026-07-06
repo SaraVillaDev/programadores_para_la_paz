@@ -1,0 +1,19 @@
+Evento que activa el flujo:
+Un ciudadano registra un nuevo reporte en la plataforma mediante
+la ruta POST /reportes.
+
+Acción:
+n8n detecta el nuevo registro y envía automáticamente un mensaje
+al canal de Telegram del equipo coordinador.
+
+Mensaje que se enviaría a Telegram:
+"Nuevo reporte recibido. Tipo: Infraestructura. Revisar sistema para más detalles."
+
+Información que no debe enviarse por seguridad:
+- Nombres completos del ciudadano que reportó.
+- Número de documento de identidad.
+- Dirección exacta o teléfono personal.
+- Contraseñas o tokens de acceso.
+- Cualquier dato que permita identificar directamente a la persona.
+
+La automatización solo debe notificar que existe un nuevo reporte,sin exponer información sensible de los ciudadanos.
