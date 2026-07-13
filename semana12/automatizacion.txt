@@ -1,0 +1,21 @@
+Evento que activa la automatización:
+Una incidencia comunitaria acumula 10 o más respaldos
+de ciudadanos en la plataforma.
+
+Acción:
+n8n detecta que el umbral de respaldos fue alcanzado y
+envía automáticamente un mensaje al canal de Telegram
+del equipo coordinador.
+
+Mensaje que se envía:
+"Una incidencia ha alcanzado 10 respaldos ciudadanos.
+Ingresar al sistema para revisar y tomar acción."
+
+Información que NO debe enviarse por seguridad:
+- Nombres o identificación de quienes respaldaron.
+- Direcciones exactas o datos de contacto.
+- Descripciones detalladas que puedan exponer a alguien.
+- Tokens, claves o credenciales del sistema.
+
+La automatización solo informa que hay actividad relevante,
+sin exponer ningún dato personal de los ciudadanos.

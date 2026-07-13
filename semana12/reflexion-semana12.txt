@@ -1,0 +1,17 @@
+Durante el curso aprendí que la tecnología tiene un valor real
+cuando está al servicio de las personas y no solo como ejercicio
+técnico. Construir rutas, manejar bases de datos, proteger
+credenciales y automatizar notificaciones son habilidades que
+cobran sentido cuando se usan para resolver problemas concretos
+de una comunidad.
+
+También entendí que la privacidad y la seguridad no son detalles
+opcionales sino responsabilidades fundamentales. Cada decisión
+de diseño, qué datos guardar, quién puede acceder y qué se
+notifica automáticamente, afecta directamente la confianza
+de las personas en la plataforma.
+
+El aprendizaje más importante es que un desarrollador no solo
+escribe código, también toma decisiones éticas sobre cómo la
+tecnología impacta a quienes la usan, y esa responsabilidad
+es tan importante como cualquier habilidad técnica.

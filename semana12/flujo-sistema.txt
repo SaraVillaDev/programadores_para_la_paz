@@ -1,0 +1,19 @@
+1. Un ciudadano ingresa a la plataforma y registra una causa
+   indicando el título, descripción y fecha del problema.
+
+2. La causa queda almacenada en la base de datos y es visible
+   para todos los usuarios de la plataforma.
+
+3. Otros ciudadanos pueden revisar las causas disponibles y
+   apoyar las que consideran importantes con un clic.
+
+4. El sistema registra cada apoyo en la base de datos asociándolo
+   a la causa correspondiente y actualiza el contador de apoyos.
+
+5. Cuando la causa alcanza un número significativo de apoyos,
+   el sistema genera automáticamente un documento PDF con la
+   petición formal y los datos de respaldo.
+
+6. El coordinador recibe una notificación en Telegram informando
+   que hay una nueva causa con suficientes apoyos para ser
+   presentada ante las autoridades correspondientes.

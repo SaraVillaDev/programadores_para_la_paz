@@ -1,0 +1,28 @@
+Entidad: Incidencia
+
+Campos principales:
+- id
+- categoria
+- descripcion
+- barrio
+- fecha
+- estado
+
+Propósito:
+Registrar problemas específicos reportados por ciudadanos
+en su territorio, como daños en vías, falta de servicios
+o situaciones de riesgo, permitiendo su seguimiento.
+
+
+Entidad: Respaldo
+
+Campos principales:
+- id
+- incidencia_id
+- fecha
+- anonimo
+
+Propósito:
+Contabilizar cuántos ciudadanos confirman que un problema
+existe en su comunidad, sin almacenar datos personales,
+para darle más peso a la incidencia ante las autoridades.
