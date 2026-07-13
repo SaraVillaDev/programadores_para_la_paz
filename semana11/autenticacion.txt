@@ -1,0 +1,13 @@
+El login en una aplicación es el proceso mediante el cual un usuario
+ingresa sus credenciales para que el sistema verifique su identidad
+antes de permitirle el acceso a ciertas funciones.
+
+En una plataforma de reportes comunitarios algunas rutas deben estar
+protegidas porque no toda la información es pública. Por ejemplo,
+el panel donde se gestionan reportes o se asignan responsables no
+debería ser accesible para cualquier persona que entre al sistema.
+
+La información que nunca debería exponerse públicamente incluye
+contraseñas, tokens de acceso, datos de contacto de los ciudadanos
+como teléfonos o direcciones, y cualquier dato que permita identificar
+directamente a una persona sin su consentimiento.

@@ -1,0 +1,15 @@
+Una plataforma de participación ciudadana necesita base de datos
+porque sin ella la información se pierde cada vez que el servidor
+se reinicia, haciendo imposible el seguimiento real de reportes
+o incidencias a lo largo del tiempo.
+
+La autenticación es necesaria porque no todos deben tener el mismo
+nivel de acceso. Un ciudadano puede registrar un reporte pero solo
+un coordinador debería poder cambiar su estado o asignar responsables.
+Sin control de acceso cualquier persona podría modificar o eliminar
+información importante.
+
+Proteger la información es una responsabilidad ética hacia la comunidad
+que confía en la plataforma. Si los datos de los ciudadanos se exponen,
+se pierde esa confianza y la participación disminuye. Una plataforma
+que no protege a sus usuarios no debería existir.

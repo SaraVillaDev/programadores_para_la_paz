@@ -1,0 +1,27 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- tipo
+- descripcion
+- fecha
+- estado
+
+Propósito:
+Registrar incidencias reportadas por ciudadanos como daños en
+infraestructura, problemas ambientales o situaciones de riesgo
+en la comunidad, permitiendo hacerles seguimiento.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- reporte_id
+- comentario
+- fecha
+- responsable
+
+Propósito:
+Guardar las actualizaciones sobre cada reporte registrado para
+que la comunidad pueda saber si su incidencia está siendo atendida.

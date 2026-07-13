@@ -1,0 +1,16 @@
+La interfaz de la plataforma de reportes comunitarios tendría una
+sección principal donde cualquier ciudadano puede registrar un nuevo
+reporte indicando el tipo de incidencia, una descripción del problema
+y la fecha en que ocurrió.
+
+También tendría una lista de reportes activos donde los usuarios
+pueden ver qué incidencias han sido registradas, su estado actual
+y si ya tienen un responsable asignado. Cada reporte mostraría
+un contador de cuántas personas han confirmado el mismo problema.
+
+Habría un botón para respaldar un reporte existente, permitiendo
+que otros ciudadanos indiquen que también han visto o vivido
+esa misma incidencia, lo que le da más peso a la denuncia.
+
+La interfaz debe ser simple, clara y no debe mostrar datos personales
+de quienes registraron los reportes, protegiendo su privacidad.
